@@ -1,0 +1,8 @@
+{
+  "realm": "Depo",
+  "auth-server-url": "http://192.168.168.160:8080/auth/",
+  "ssl-required": "none",
+  "resource": "depo",
+  "public-client": true,
+  "confidential-port": 0
+}
